@@ -1,0 +1,6 @@
+"milk" 4.99
+"eggs" 10000.00
+"bread" 2.99
+"bacon" 5.00
+"lettuce" 2.59
+"tomato" 0.00
