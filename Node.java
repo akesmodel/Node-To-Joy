@@ -1,4 +1,4 @@
-public class Node{
+public class Node{ //Our node class, containing only attributes and constructors.
     protected String data;
     protected Node next;
 
